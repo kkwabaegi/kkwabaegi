@@ -16,4 +16,4 @@
 //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kkwabaegi&color=dark)](https://github.com/kkwabaegi/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kkwabaegi)](https://velog.io/@eungyeole) 
