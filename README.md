@@ -31,11 +31,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkwabaegi&count_bg=%2379C83D&title_bg=%23555555&icon=spacemacs.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/kkwabaegi)
 
-[![Solved.ac/profile/kkwabaegi](http://mazassumnida.wtf/api/v2/generate_badge?boj={kkwabaegi})](https://solved.ac/profile/kkwabaegi)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div>
+
 </div>
