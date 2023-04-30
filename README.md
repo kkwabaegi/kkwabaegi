@@ -33,7 +33,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwabaegi)](https://solved.ac/kkwabaegi)
 
-![kkwabaegi's GitHub stats](https://github-readme-stats.vercel.app/api?kkwabaegi=anuraghazra&show_icons=true&theme=transparent)
+![kkwabaegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwabaegi&show_icons=true&theme=transparent)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact)](https://github.com/kkwabaegi)
   
