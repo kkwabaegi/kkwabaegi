@@ -15,6 +15,3 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kkwabaegi)](https://velog.io/@kkwabaegi) 
-https://github.com/gjbae1212/hit-counter
