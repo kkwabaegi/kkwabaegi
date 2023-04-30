@@ -35,8 +35,7 @@
 
 ![kkwabaegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwabaegi&show_icons=true&theme=transparent)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact)](https://github.com/kkwabaegi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact&show_icons=true&theme=transparent)](https://github.com/kkwabaegi)
   
-![kkwabaegi's github stats](https://github-readme-stats.vercel.app/api?username=kkwabaegi&show_icons=true)
 
 </div>
