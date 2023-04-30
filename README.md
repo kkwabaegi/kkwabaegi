@@ -17,9 +17,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
-#### :pencil2: Study log
-
-## 줄은 왜생기는건데
+## :pencil2: Study log
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwabaegi)](https://solved.ac/kkwabaegi)
 
