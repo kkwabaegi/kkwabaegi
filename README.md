@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello)
 
 ####  :wave: Welcome my github profile !
-
   
  <br/>
  <br/>
@@ -29,13 +28,12 @@
  
 #### :pencil2: Study log
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkwabaegi&count_bg=%2379C83D&title_bg=%23555555&icon=spacemacs.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/kkwabaegi)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwabaegi)](https://solved.ac/kkwabaegi)
 
 ![kkwabaegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwabaegi&show_icons=true&theme=transparent)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact&show_icons=true&theme=transparent)](https://github.com/kkwabaegi)
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkwabaegi&count_bg=%2379C83D&title_bg=%23555555&icon=spacemacs.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/kkwabaegi)
 
 </div>
