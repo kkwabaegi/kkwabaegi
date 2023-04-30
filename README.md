@@ -31,8 +31,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkwabaegi&count_bg=%2379C83D&title_bg=%23555555&icon=spacemacs.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/kkwabaegi)
 
-[![Solved.ac
-https://solved.ac/profile/kkwabaegi](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/kkwabaegi)
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact)](https://github.com/kkwabaegi)
