@@ -35,7 +35,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact)](https://github.com/kkwabaegi)
   
 ![kkwabaegi's github stats](https://github-readme-stats.vercel.app/api?username=kkwabaegi&show_icons=true)
 
