@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello)
 
 #  :wave: Welcome my github profile !
-
 ## 손은규
   
  <br/>
