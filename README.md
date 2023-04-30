@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&animation=fadeIn&fontAlignY=10)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&animation=fadeIn&fontAlignY=50)
 
 #  :wave: Welcome my github profile !
 
