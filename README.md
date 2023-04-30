@@ -26,7 +26,8 @@
  
    <br/>
    <br/>
- # 아
+# 아
+
 #### :pencil2: Study log
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwabaegi)](https://solved.ac/kkwabaegi)
