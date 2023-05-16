@@ -26,7 +26,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkwabaegi&layout=compact&show_icons=true&theme=transparent)](https://github.com/kkwabaegi)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkwabaegi&count_bg=%2379C83D&title_bg=%23555555&icon=katana.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+</div>
   Vs code 
 C+S+P
 user setting(json)
@@ -48,5 +49,3 @@ reload 개발자: 창 다시 로드
 HTML꾸미기 참고 사이트:부트스트랩
 
 아이콘 찾는데 : 어섬폰트
-  
-</div>
