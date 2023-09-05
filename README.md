@@ -51,3 +51,166 @@ HTML꾸미기 참고 사이트:부트스트랩
 아이콘 찾는데 : 어섬폰트
 
 이미지 사용 : flutter run -d chrome --web-renderer html
+
+import 'package:flutter/material.dart';
+
+class AddPage extends StatefulWidget {
+  String filePath;
+  AddPage({super.key, required this.filePath});
+
+  @override
+  State<AddPage> createState() => _AddPageState();
+}
+
+class _AddPageState extends State<AddPage> {
+  String filepath = '';
+
+  List<TextEditingController> controllers = [
+    TextEditingController(),
+    TextEditingController(),
+  ];
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    filepath = widget.filePath;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(filepath),
+        centerTitle: true,
+      ),
+      body: Form(
+          child: Padding(
+        padding: const EdgeInsets.all(10.0),
+        child: Column(
+          children: [
+            TextFormField(
+              controller: controllers[0],
+              decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                label: Text('title',
+                    style: TextStyle(fontSize: 20, color: Colors.green)),
+              ),
+            ),
+            const SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: TextFormField(
+                controller: controllers[1],
+                maxLines: 11,
+                maxLength: 100,
+                decoration: const InputDecoration(
+                  border: OutlineInputBorder(),
+                  label: Text('contents',
+                      style: TextStyle(
+                        fontSize: 40,
+                        color: Colors.green,
+                      )),
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                var title = controllers[0].text;
+                var content = controllers[1].text;
+                //print(title);
+                Navigator.pop(context, "$title $content");
+              },
+              child: const Text('저장'),
+            )
+          ],
+        ),
+      )),
+    );
+  }
+}
+
+
+-----
+
+
+import 'package:flutter/material.dart';
+import 'package:flutter_application_diary/add_page.dart';
+
+class MainPage extends StatefulWidget {
+  const MainPage({super.key});
+
+  @override
+  State<MainPage> createState() => _MainPageState();
+}
+
+class _MainPageState extends State<MainPage> {
+  @override
+  Widget build(BuildContext context) {
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Main(),
+    );
+  }
+}
+
+class Main extends StatefulWidget {
+  const Main({
+    super.key,
+  });
+
+  @override
+  State<Main> createState() => _MainState();
+}
+
+class _MainState extends State<Main> {
+  dynamic result = 'Hello';
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Main Page'),
+      ),
+      body: SizedBox(
+          width: double.infinity,
+          height: double.infinity,
+          child: Column(
+            children: [
+              Text(
+                result.toString().split(' ')[0],
+                style: const TextStyle(fontSize: 50),
+              ),
+              Text(
+                result.toString().split(' ')[1],
+                style: const TextStyle(fontSize: 20),
+              ),
+            ],
+          )),
+      floatingActionButton: FloatingActionButton(
+          onPressed: () async {
+            result = await Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => AddPage(filePath: 'temp'),
+              ),
+            ); //context 화면 순서 관리,
+            print(result);
+            setState(() {});
+          },
+          child: const Icon(
+            Icons.add_circle_outline,
+            size: 40,
+          )),
+    );
+  }
+}
+----
+
+import 'package:flutter/material.dart';
+import 'package:flutter_application_diary/main_page.dart';
+
+void main() {
+  runApp(const MainPage());
+}
